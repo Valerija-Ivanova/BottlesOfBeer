@@ -1,6 +1,5 @@
 function funBeer() {
 	
-	alert("Beer");
 	var beerBottles=99;
 	
 	for (i=99; i>=0; i--){
