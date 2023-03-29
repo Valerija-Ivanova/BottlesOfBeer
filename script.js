@@ -1,7 +1,5 @@
 function funBeer() {
 	
-	var beerBottles=99;
-	
 	for (i=99; i>=0; i--){
 		
 		if (i>=3){
